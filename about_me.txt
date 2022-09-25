@@ -1,3 +1,7 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Yuqi Zhao, I'm a junior. 
+I'm computer science major student at LSA.
+Fun Fact: I'm interested in ancient greek culture!
